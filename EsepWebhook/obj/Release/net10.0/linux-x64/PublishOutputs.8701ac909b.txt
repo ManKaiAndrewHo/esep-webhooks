@@ -1,0 +1,6 @@
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.deps.json
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.runtimeconfig.json
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.pdb
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Core.dll
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/publish/EsepWebhook.dll

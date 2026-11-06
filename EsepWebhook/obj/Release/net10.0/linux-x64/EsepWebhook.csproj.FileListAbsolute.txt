@@ -1,0 +1,17 @@
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.deps.json
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.dll
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/refint/EsepWebhook.dll
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
