@@ -16,3 +16,4 @@
 /Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
 /Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.sourcelink.json
+/Users/andrewho/Documents/GitHub/esep-webhooks/EsepWebhook/bin/Release/net10.0/linux-x64/Newtonsoft.Json.dll
